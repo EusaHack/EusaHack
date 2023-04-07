@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm EusaHack</h1>
 <h3 align="center">Mexican Backend Developer Passionate about Cybersecurity</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eusahack&label=Profile%20views&color=0e75b6&style=flat" alt="eusahack" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eusahack" alt="eusahack" /></a> </p>
 
 - 🔭 I’m currently working on **Kyndryl (IBM)**
 
@@ -33,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eusahack&show_icons=true&locale=en" alt="eusahack" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eusahack&" alt="eusahack" /></p>
+
