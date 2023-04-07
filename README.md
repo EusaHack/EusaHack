@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **networks, ethical hacking and development frameworks**
 
-- 👯 I’m looking to collaborate on **software development**
-
 - 🤝 I’m looking for help with **Opportunity to develop my skills**
-
-- 👨‍💻 All of my projects are available at [https://github.com/EusaHack](https://github.com/EusaHack)
 
 - 📫 How to reach me **eusa510@gmail.com**
 
@@ -30,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eusahack&show_icons=true&locale=en" alt="eusahack" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eusahack&" alt="eusahack" /></p>
-
