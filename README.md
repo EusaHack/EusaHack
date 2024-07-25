@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eusahack&label=Profile%20views&color=0e75b6&style=flat" alt="eusahack" /> </p>
 
-- 🔭 I’m currently working on **Kyndryl (IBM)**
+- 🔭 I’m currently working on **Mediaaerea**
 
 - 🌱 I’m currently learning **networks, ethical hacking and development frameworks**
 
