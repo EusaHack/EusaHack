@@ -37,11 +37,6 @@ Experiencia creando soluciones **seguras, escalables y listas para producción**
 - 📫 Contacto: **eus4h4ck@gmail.com**
 
 ---
-
-## 🌐 Conecta conmigo
-
-https://www.eusahack.website/
----
 ---
 
 ## ⚡ Filosofía Técnica
