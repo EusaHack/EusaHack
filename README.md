@@ -37,7 +37,6 @@ Experiencia creando soluciones **seguras, escalables y listas para producción**
 - 📫 Contacto: **eus4h4ck@gmail.com**
 
 ---
----
 
 ## ⚡ Filosofía Técnica
 
